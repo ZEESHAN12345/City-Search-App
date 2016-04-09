@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">City Search App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_city_detail">CityDetail</string>
+</resources>
